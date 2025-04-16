@@ -13,7 +13,7 @@
 | TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting | ICLR 2025          |
 | TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting                                  | ICLR 2024          |
 | TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis                   | ICLR 2025          |
-
+| TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis                              | ICLR 2023          |
 
 | TSAD Paper                                                                                             | Conference/Journal |
 | ------------------------------------------------------------------------------------------------------ | ------------------ |
