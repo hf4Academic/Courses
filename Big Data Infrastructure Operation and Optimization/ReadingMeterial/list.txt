@@ -1,30 +1,35 @@
-| TSF Paper                                                                                              | Conference/Journal |
-| ------------------------------------------------------------------------------------------------------ | ------------------ |
-| Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting          | NeurIPS 2021       |
-| Are Transformers Effective for Time Series Forecasting?                                                | AAAI 2023          |
-| FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting                  | ICML 2022          |
-| Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting                       | AAAI 2021          |
-| Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures    | SIGMOD 2023        |
-| Multi-Resolution Diffusion Models for Time Series Forecasting                                          | ICLR 2024          |
-| iTransformer: Inverted Transformers Are Effective for Time Series Forecasting                          | ICLR 2024          |
-| Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting                     | NeurIPS 2022       |
-| A Time Series is Worth 64 Words: Long-term Forecasting with Transformers                               | ICLR 2023          |
-| Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting     | ICLR 2022          |
-| TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting | ICLR 2025          |
-| TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting                                  | ICLR 2024          |
-| TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis                   | ICLR 2025          |
-| TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis                              | ICLR 2023          |
+| TSF Paper                                                                                                        | Conference/Journal |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting                    | NeurIPS 2021       |
+| Are Transformers Effective for Time Series Forecasting?                                                          | AAAI 2023          |
+| FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting                            | ICML 2022          |
+| Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting                                 | AAAI 2021          |
+| Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures              | SIGMOD 2023        |
+| Multi-Resolution Diffusion Models for Time Series Forecasting                                                    | ICLR 2024          |
+| iTransformer: Inverted Transformers Are Effective for Time Series Forecasting                                    | ICLR 2024          |
+| Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting                               | NeurIPS 2022       |
+| A Time Series is Worth 64 Words: Long-term Forecasting with Transformers                                         | ICLR 2023          |
+| Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting               | ICLR 2022          |
+| TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting           | ICLR 2025          |
+| TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting                                            | ICLR 2024          |
+| TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis                             | ICLR 2025          |
+| TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis                                        | ICLR 2023          |
 
-| TSAD Paper                                                                                             | Conference/Journal |
-| ------------------------------------------------------------------------------------------------------ | ------------------ |
-| Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders | ICLR 2025          |
-| Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection                   | WWW 2024           |
-| Beyond Sharing: Conflict-Aware Multivariate Time Series Anomaly Detection                              | ESEC/FSE 2023      |
-| Calibrated One-Class Classification for Unsupervised Time Series Anomaly Detection                     | TKDE 2024          |
-| CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching                 | ICLR 2025          |
-| LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection  | WWW 2024           |
-| Unsupervised Model Selection for Time-Series Anomaly Detection                                         | ICLR 2023          |
-| Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection         | ICLR 2025          |
-| Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network      | KDD 2019           |
-| PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection                     | KDD 2024           |
-| When Model Meets New Normals: Test-Time Adaptation for Unsupervised Time-Series Anomaly Detection      | AAAI 2024          |
+| TSAD Paper                                                                                                       | Conference/Journal |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders           | ICLR 2025          |
+| Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection                             | WWW 2024           |
+| Beyond Sharing: Conflict-Aware Multivariate Time Series Anomaly Detection                                        | ESEC/FSE 2023      |
+| Calibrated One-Class Classification for Unsupervised Time Series Anomaly Detection                               | TKDE 2024          |
+| CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching                           | ICLR 2025          |
+| LARA: A Light and Anti-overfitting Retraining Approach for Unsupervised Time Series Anomaly Detection            | WWW 2024           |
+| Unsupervised Model Selection for Time-Series Anomaly Detection                                                   | ICLR 2023          |
+| Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection                   | ICLR 2025          |
+| Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network                | KDD 2019           |
+| PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection                               | KDD 2024           |
+| When Model Meets New Normals: Test-Time Adaptation for Unsupervised Time-Series Anomaly Detection                | AAAI 2024          |
+
+| RCA Paper                                                                                                        | Conference/Journal |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition              | KDD 2022           |
+| Microservice Root Cause Analysis With Limited Observability Through Intervention Recognition in the Latent Space | KDD 2024           |
