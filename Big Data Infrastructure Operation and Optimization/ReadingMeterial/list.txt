@@ -29,6 +29,10 @@
 | PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection                               | KDD 2024           |
 | When Model Meets New Normals: Test-Time Adaptation for Unsupervised Time-Series Anomaly Detection                | AAAI 2024          |
 
+| TSA Paper                                                                                                        | Conference/Journal |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------ |
+| k-Shape: Efficient and Accurate Clustering of Time Series                                                        | SIGMOD 2016        |
+
 | RCA Paper                                                                                                        | Conference/Journal |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition              | KDD 2022           |
