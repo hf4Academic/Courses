@@ -31,7 +31,7 @@
 
 | TSA Paper                                                                                                        | Conference/Journal |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------ |
-| k-Shape: Efficient and Accurate Clustering of Time Series                                                        | SIGMOD 2016        |
+| k-Shape: Efficient and Accurate Clustering of Time Series                                                        | SIGMOD 2015        |
 
 | RCA Paper                                                                                                        | Conference/Journal |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------ |
